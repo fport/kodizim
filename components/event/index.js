@@ -8,9 +8,11 @@ export default function Event() {
       <article className={styles.header}>
         <h1 className={styles.headTitle}>Kodizim Sana Neler Katabilir?</h1>
         <p className={styles.headDesc}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-          volutpat at mi ac tempor. Nulla facilisi. Donec et urna at neque
-          sagittis tempus non nec tellus. Cras porta, purus et gravida venenatis
+          Kodizim; yazılım, tasarım ve teknoloji ile ilgilenenlerin toplandığı
+          bir topluluk olarak, katılan bireylere etkinlikleri vasıtasıyla,
+          sektör de aktif rol alan bireylerden tecrübe edinme, yapılan
+          workshoplar ile yeni yazılım dünyalarına açılma ve pair programming
+          yapısıylada birlikte gelişmenin temellerini atar.
         </p>
       </article>
       <section className={styles.cardsWrapper}>

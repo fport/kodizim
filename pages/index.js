@@ -9,7 +9,7 @@ function LandingPage() {
   return (
     <>
       <Layout>
-        <Seo title="Hakkımızda" />
+        <Seo title="Anasayfa" />
         <Hero />
         <Section />
         <Event />

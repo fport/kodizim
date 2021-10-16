@@ -5,3 +5,7 @@
 .wrapper p {
   @apply font-normal;
 }
+
+.descWrapper {
+  @apply flex flex-col	justify-start h-200;
+}

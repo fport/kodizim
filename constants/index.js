@@ -7,17 +7,17 @@ const Nav = [
 const CardInfo = [
   {
     title: "Discord Etkinlikleri",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat at mi ac tempor. Nulla facilisi. Donec et urna at neque ",
+    desc: "Discord kanalımız içerisinde gerçekleştirdiğimiz etkinlikler ile hem topluluğumuzda bulunan bireylerin kaynaşması hemde sektörden bilgiler edinmenizi sağlamayı hedefliyoruz.",
     variant: "discord",
   },
   {
     title: "Workshop & Konferans",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat at mi ac tempor. Nulla facilisi. Donec et urna at neque ",
+    desc: "Etkinliklerimiz esnasında gerçekleştirdiğimiz workshop ve konferanslar ile yazılım dünyanıza farklı bir bakış ve network’unuzu genişletebileceğiniz bir ortam hazırlamayı hedefliyoruz.",
     variant: "workshop",
   },
   {
     title: "Pair Programming",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat at mi ac tempor. Nulla facilisi. Donec et urna at neque ",
+    desc: "Discord kanalımız içerisinde bulunan pair programming odaları bu işlev için açılmış olup, birlikte fikir alışverişi yaparak izimizi koda bırakıyoruz.",
     variant: "pair",
   },
 ];
